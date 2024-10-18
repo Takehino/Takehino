@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ganigann3007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j6j0RJrqtmFLmlHEX-TxFU9uRPVmwfdt/view?usp=drive_link](https://drive.google.com/file/d/1j6j0RJrqtmFLmlHEX-TxFU9uRPVmwfdt/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1j6j0RJrqtmFLmlHEX-TxFU9uRPVmwfdt/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm a genius**
 
