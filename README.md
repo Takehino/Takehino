@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://instagram.com/takehino._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="takehino._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/takehino816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="takehino816" height="30" width="40" /></a>
-<a href="https://discord.gg/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="test" height="30" width="40" /></a>
+<a href="https://discord.gg/RsVswdZZER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RsVswdZZER" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
